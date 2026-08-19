@@ -1,32 +1,37 @@
-# React + TypeScript + Vite
+# Rinita Ganguly — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Personal developer portfolio showcasing my projects, technical skills, and experience building AI-powered applications, automation tools, and full-stack web applications.
 
-Currently, two official plugins are available:
+## Featured Projects
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### SentinelAI
+AI-powered SAST platform for source-code vulnerability detection and structured security reports.
 
-## React Compiler
+- GitHub: https://github.com/rinitaganguly/SentinelAI
+- Live Demo: https://sentinel-ai-ten-virid.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### AI Object Tracker
+Computer vision application for detecting and tracking objects in images and video.
 
-## Expanding the Oxlint configuration
+- GitHub: https://github.com/rinitaganguly/ai-object-tracker
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+### Savor Restaurant
+Responsive restaurant website with menu browsing, filtering, reservations, events, and mobile-friendly design.
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+- GitHub: https://github.com/rinitaganguly/savor-restaurant
+- Live Demo: https://rinitaganguly.github.io/savor-restaurant/
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+### ShopEase E-commerce
+Full-stack e-commerce platform with product browsing, cart, wishlist, checkout, REST APIs, and responsive UI.
+
+- GitHub: https://github.com/rinitaganguly/shopease-ecommerce
+- Live Demo: https://shopease-ecommerce-blush.vercel.app/
+
+## Technologies
+
+Python · JavaScript · TypeScript · React · FastAPI · HTML · CSS · SQL · Git · GitHub · Tailwind CSS · OpenCV · REST APIs · n8n
+
+## Connect
+
+- GitHub: https://github.com/rinitaganguly
+- LinkedIn: https://www.linkedin.com/in/rinita-ganguly-60555940a/
